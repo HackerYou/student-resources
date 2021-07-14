@@ -20,6 +20,9 @@ This repository has all the information you need in order to successfully naviga
   - Tax Information
   - Invoices
 
+Want to sign up for additional courses? Here's more information on this!
+
+
 
 
 
