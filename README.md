@@ -10,7 +10,7 @@ This repository has all the information you need in order to successfully naviga
 - Course Information
   - Course Links
   - Deferral and Refund Information
-  - Program Downloads
+  - Program to Downloads
   - Health and Wellness
   - Recordings of Classes
   - Letter of Completion
