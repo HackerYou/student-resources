@@ -13,10 +13,11 @@ This repository has all the information you need in order to successfully naviga
   - Course Downloads
   - Health and Wellness
   - Recordings of Classes
-  - Alumni Office Hours
   - Letter of Completion
+- In-Course Resources
+  - Alumni Office Hours
   - Submitting Feedback for Courses
-- Finance
+- Finance Information
   - Tax Information
   - Invoices
 
