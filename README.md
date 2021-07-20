@@ -9,11 +9,11 @@ This repository has all the information you need in order to successfully naviga
   - GitHub
 - Course Information
   - Course Links
-  - Office Hours
   - Deferral and Refund Information
   - Course Downloads
   - Health and Wellness
   - Recordings of Classes
+  - Alumni Office Hours
   - Letter of Completion
   - Submitting Feedback for Courses
 - Finance
