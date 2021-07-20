@@ -3,7 +3,7 @@ This repository has all the information you need in order to successfully naviga
 
 ## Table of Content
 - Set-up for Success
-  - Computer Requirement
+  - Computer Requirements (#ComputerRequirements)
   - Slack
   - Zoom
   - GitHub
