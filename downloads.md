@@ -21,3 +21,6 @@ These are the specific programs needed to download for each course:
 - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS (LTS Version)](https://nodejs.org/en/)
+
+## React
+TBA
