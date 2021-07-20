@@ -10,3 +10,4 @@ You'll be using HelpCue and Slack! To ask questions, you'll join our Alumni Offi
 - Log into [HelpCue](https://www.helpcue.com/) - our room code is Ptsu12hq
 - Submit your question to HelpCue & Include your @SlackName
 - One of our awesome alumni will reach out to you via Slack and help resolve your misbehaving code! Our alumni will be on HelpCue on the designated dates and times waiting for your questions to help you out individually. 
+
