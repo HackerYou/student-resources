@@ -16,7 +16,7 @@ This repository has all the information you need in order to successfully naviga
   - Letter of Completion
 - In-Course Resources
   - Alumni Office Hours
-  - Submitting Feedback for Courses
+  - Coruse Feedback
 - Finance Information
   - Tax Information
   - Invoices
