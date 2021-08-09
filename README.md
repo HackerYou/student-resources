@@ -7,13 +7,19 @@ This repository has all the information you need in order to successfully naviga
   - Slack
   - Zoom
   - GitHub
-- Course Information
+- General Student Informatin
+  - Health and Wellness
+  - Recordings of Classes
+- Course Information for Con-Ed
   - Course Links
   - Deferral and Refund Information
   - Program to Downloads
-  - Health and Wellness
-  - Recordings of Classes
   - Letter of Completion
+- Course Information for Web Development Bootcamp
+  - Preparing for Bootcamp
+  - Bootcamp Notes
+  - Stuff You Need to Know
+  - Important Dates
 - In-Course Resources
   - Alumni Office Hours
   - Course Feedback
