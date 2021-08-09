@@ -13,21 +13,22 @@ This repository has all the information you need in order to successfully naviga
 - Course Information for Con-Ed
   - Course Links
   - Deferral and Refund Information
-  - Program to Downloads
-  - Letter of Completion
+  - Programs to Download
+  - Letters of Completion
 - Course Information for Web Development Bootcamp
   - Preparing for Bootcamp
   - Bootcamp Notes
   - Stuff You Need to Know
   - Important Dates
+  - Certificates and Transcripts
 - In-Course Resources
   - Alumni Office Hours
+  - 1:1 Mentorships
   - Course Feedback
 - Finance Information
   - Tax Information
   - Invoices
-
-Want to sign up for additional courses? Here's more information on this!
+- Enrol in Additional Courses
 
 
 
