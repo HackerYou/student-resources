@@ -23,7 +23,6 @@ This repository has all the information you need in order to successfully naviga
   - Certificates and Transcripts
 - In-Course Resources
   - Alumni Office Hours
-  - 1:1 Mentorships
   - Course Feedback
 - Finance Information
   - Tax Information
