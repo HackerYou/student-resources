@@ -3,7 +3,7 @@ This repository has all the information you need in order to successfully naviga
 
 ## Table of Contents
 - Set-up for Success
-  - [Computer Requirements](./liveOnline#computer-requirements) 
+  - [Computer Requirements](./computer-requirements.md) 
   - Slack
   - Zoom
   - GitHub
