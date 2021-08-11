@@ -1,6 +1,6 @@
 # Computer Requirements
 
-## For Web Dev, JS, Full Stack, and Data
+## For Web Dev, JS, React, WordPress/Shopify, Full Stack, and Data
 We recommend you use either:
 
 An Apple laptop newer than 6 years old running one of the 3 most recent major releases of MacOS (currently: 10.14 (Mojave) or newer)
