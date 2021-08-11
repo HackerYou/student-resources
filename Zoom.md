@@ -10,7 +10,7 @@
 
 ### Break-out Rooms
 
-### Zoom Ettique at Juno 
+### Zoom Etiquette at Juno 
 
 ### How To Raise Hand
 
