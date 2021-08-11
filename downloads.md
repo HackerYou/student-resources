@@ -10,6 +10,15 @@ These are the specific programs needed to download for each course:
 - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
+## React
+- [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+
+## Wordpress & Shopify
+- [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
+
+
 ## Data Analytics
 - [Tableau Public](https://public.tableau.com/en-us/s/)
   - Note: In order to download Tableau Public, you’ll need to submit your email at the link above, and then create an account. Once you have your account you’ll be able to download and install the program.
@@ -22,5 +31,4 @@ These are the specific programs needed to download for each course:
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS (LTS Version)](https://nodejs.org/en/)
 
-## React
-TBA
+
