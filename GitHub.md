@@ -8,10 +8,10 @@ This is the main place for all program course notes. To access your specific cou
 
 Each course has a specific course link to the notes on GitHub. You will find your specific course notes below and will have access to them before your course begins (see your Welcome Email for more details).
 
-[Data](https://github.com/HackerYou/con-ed-data-foundations)
-[Web Development](https://github.com/HackerYou/con-ed-web-dev)
-[JavaScript](https://github.com/HackerYou/con-ed-javascript)
-[React](https://github.com/HackerYou/con-ed-react)
-[WordPress/Shopify](https://github.com/HackerYou/con-ed-custom-themes)
-[Full Stack Development](https://github.com/HackerYou/con-ed-full-stack)
-[UX](https://github.com/HackerYou/con-ed-ux)
+- [Data](https://github.com/HackerYou/con-ed-data-foundations)
+- [Web Development](https://github.com/HackerYou/con-ed-web-dev)
+- [JavaScript](https://github.com/HackerYou/con-ed-javascript)
+- [React](https://github.com/HackerYou/con-ed-react)
+- [WordPress/Shopify](https://github.com/HackerYou/con-ed-custom-themes)
+- [Full Stack Development](https://github.com/HackerYou/con-ed-full-stack)
+- [UX](https://github.com/HackerYou/con-ed-ux)
