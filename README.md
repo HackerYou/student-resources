@@ -5,29 +5,29 @@ This repository has all the information you need in order to successfully naviga
 - Set-up for Success
   - [Computer Requirements](./computer-requirements.md) 
   - [Slack](./Slack.md)
-  - [Zoom]
-  - GitHub
+  - [Zoom](./Zoom.md)
+  - [GitHub](./GitHub.md)
 - General Student Informatin
-  - Health and Wellness
-  - Recordings of Classes
+  - [Health and Wellness](./health.md)
+  - [Recordings of Classes](./recordings.md)
 - Course Information for Con-Ed
-  - Course Links
-  - Deferral and Refund Information
-  - Programs to Download
-  - Letters of Completion
+  - [Course Links](./course-links.md)
+  - [Deferral and Refund Information](./deferral.md)
+  - [Programs to Download](./download.md)
+  - [Letters of Completion](./letter-of-completion)
 - Course Information for Web Development Bootcamp
-  - Preparing for Bootcamp
-  - Bootcamp Notes
-  - Stuff You Need to Know
-  - Important Dates
-  - Certificates and Transcripts
+  - [Preparing for Bootcamp](./preparing-for-bootcamp)
+  - [Bootcamp Notes](https://github.com/HackerYou/bootcamp-notes)
+  - [Stuff You Need to Know](https://github.com/HackerYou/bootcamp-notes/tree/main/stuff-you-need-to-know)
+  - [Important Dates](https://github.com/HackerYou/bootcamp-notes/blob/main/stuff-you-need-to-know/important-dates.md)
+  - [Certificates and Transcripts](./certificates-transcripts.md)
 - In-Course Resources
-  - Alumni Office Hours
-  - Course Feedback
+  - [Alumni Office Hours](./alumni-office-hours.md)
+  - [Course Feedback](./course-feedback.md)
 - Finance Information
-  - Tax Information
-  - Invoices
-- Enrol in Additional Courses
+  - [Tax Information](./tax-information.md)
+  - [Invoices](./invoices)
+- [Enrol in Additional Courses](./enrol-for-courses)
 
 
 
