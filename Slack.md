@@ -9,7 +9,7 @@
 ## How to access class channels on Slack
 
 ## The Slack Basics
-
+### Slack Etiquette
 ### How to Pin Messages
+### Bookmarks
 
-think of more things students do!
