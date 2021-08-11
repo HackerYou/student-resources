@@ -13,10 +13,10 @@ This repository has all the information you need in order to successfully naviga
 - Course Information for Con-Ed
   - [Course Links](./course-links.md)
   - [Deferral and Refund Information](./deferral.md)
-  - [Programs to Download](./download.md)
-  - [Letters of Completion](./letter-of-completion)
+  - [Programs to Download](./downloads.md)
+  - [Letters of Completion](./letter-of-completion.md)
 - Course Information for Web Development Bootcamp
-  - [Preparing for Bootcamp](./preparing-for-bootcamp)
+  - [Preparing for Bootcamp](./preparing-for-bootcamp.md)
   - [Bootcamp Notes](https://github.com/HackerYou/bootcamp-notes)
   - [Stuff You Need to Know](https://github.com/HackerYou/bootcamp-notes/tree/main/stuff-you-need-to-know)
   - [Important Dates](https://github.com/HackerYou/bootcamp-notes/blob/main/stuff-you-need-to-know/important-dates.md)
