@@ -1,1 +1,2 @@
 # Certificates and Transcripts
+At the end of Bootcamp, students who successfully complete the required hours and requirements of the program will receive a hard copy of their Certificate and Transcript in the mail. On your Graduation Day, it will be announced when you should be expecting this package in the mail. Please make sure you provide us your current address at that time, if it has changed. 
