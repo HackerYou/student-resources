@@ -4,8 +4,8 @@ This repository has all the information you need in order to successfully naviga
 ## Table of Contents
 - Set-up for Success
   - [Computer Requirements](./computer-requirements.md) 
-  - [Slack](./Slack.md)
   - [Zoom](./Zoom.md)
+  - [Slack](./Slack.md)
   - [GitHub](./GitHub.md)
 - General Student Informatin
   - [Health and Wellness](./health.md)
