@@ -26,8 +26,8 @@ This repository has all the information you need in order to successfully naviga
   - [Course Feedback](./course-feedback.md)
 - Finance Information
   - [Tax Information](./tax-information.md)
-  - [Invoices](./invoices)
-- [Enrol in Additional Courses](./enrol-for-courses)
+  - [Invoices](./invoices.md)
+- [Enrol in Additional Courses](./enrol-for-courses.md)
 
 
 
