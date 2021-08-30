@@ -7,7 +7,7 @@ This repository has all the information you need in order to successfully naviga
   - [Zoom](./Zoom.md)
   - [Slack](./Slack.md)
   - [GitHub](./GitHub.md)
-- General Student Informatin
+- General Student Information
   - [Health and Wellness](./health.md)
   - [Recordings of Classes](./recordings.md)
 - Course Information for Con-Ed
@@ -21,6 +21,7 @@ This repository has all the information you need in order to successfully naviga
   - [Stuff You Need to Know](https://github.com/HackerYou/bootcamp-notes/tree/main/stuff-you-need-to-know)
   - [Important Dates](https://github.com/HackerYou/bootcamp-notes/blob/main/stuff-you-need-to-know/important-dates.md)
   - [Certificates and Transcripts](./certificates-transcripts.md)
+- Course Information for Data Analytics Bootcamp
 - In-Course Resources
   - [Alumni Office Hours](./alumni-office-hours.md)
   - [Course Feedback](./course-feedback.md)
