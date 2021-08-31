@@ -1,9 +1,12 @@
-# Web Development
+# Part-time Web Development
 
 ## Course Link
 These are the links to important documents for our current and upcoming courses. You will gain access to these notes once you register for a course. Please refer to your Welcome Email for the exact date of access:
 
 - [Web Development](https://github.com/HackerYou/con-ed-web-dev)
+
+## When does part-time Web Development start?
+These classes are typically evenings from 6:30pm - 9:30pm EDT or weekends from 10:00am - 4:00pm EDT. 
 
 ## Program Downloads for Courses
 
