@@ -14,7 +14,7 @@ This repository has all the information you need in order to successfully naviga
   - [Letters of Completion](./letter-of-completion.md)
   - [Deferral and Refund Information](./deferral.md)
 - Course Information for Con-Ed
-  - [Web Development]
+  - [Web Development](./web-development.md)
   - [Course Links](./course-links.md)
   - [Programs to Download](./downloads.md)
 - Course Information for Web Development Bootcamp
