@@ -10,11 +10,13 @@ This repository has all the information you need in order to successfully naviga
 - General Student Information
   - [Health and Wellness](./health.md)
   - [Recordings of Classes](./recordings.md)
-- Course Information for Con-Ed
-  - [Course Links](./course-links.md)
-  - [Deferral and Refund Information](./deferral.md)
-  - [Programs to Download](./downloads.md)
+- General Con-Ed Students
   - [Letters of Completion](./letter-of-completion.md)
+  - [Deferral and Refund Information](./deferral.md)
+- Course Information for Con-Ed
+  - [Web Development]
+  - [Course Links](./course-links.md)
+  - [Programs to Download](./downloads.md)
 - Course Information for Web Development Bootcamp
   - [Preparing for Bootcamp](./preparing-for-bootcamp.md)
   - [Bootcamp Notes](https://github.com/HackerYou/bootcamp-notes)
