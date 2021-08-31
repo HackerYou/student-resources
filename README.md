@@ -14,7 +14,15 @@ This repository has all the information you need in order to successfully naviga
   - [Letters of Completion](./letter-of-completion.md)
   - [Deferral and Refund Information](./deferral.md)
 - Course Information for Con-Ed
-  - [Web Development](./web-development.md)
+  - [Part-Time Web Development](./part-time-web-development.md)
+  - Accelerated Web Development
+  - Part-Time JavaScript
+  - Accelerated JavaScript
+  - Part-Time Data Analytics
+  - Accelerated Data Analytics
+  - React
+  - UX
+  - Wordpress and Shopify
   - [Course Links](./course-links.md)
   - [Programs to Download](./downloads.md)
 - Course Information for Web Development Bootcamp
