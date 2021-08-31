@@ -15,11 +15,11 @@ This repository has all the information you need in order to successfully naviga
   - [Deferral and Refund Information](./deferral.md)
 - Course Information for Con-Ed
   - [Part-Time Web Development](./part-time-web-development.md)
-  - Accelerated Web Development
-  - Part-Time JavaScript
-  - Accelerated JavaScript
-  - Part-Time Data Analytics
-  - Accelerated Data Analytics
+  - [Accelerated Web Development](./accelerated-web-development.md)
+  - [Part-Time JavaScript](./part-time-javascript.md)
+  - [Accelerated JavaScript](./accelerated-javascript.md)
+  - [Part-Time Data Analytics](./part-time-data.md)
+  - [Accelerated Data Analytics](./accelerated-data.md)
   - React
   - UX
   - Wordpress and Shopify
