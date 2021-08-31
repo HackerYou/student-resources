@@ -11,3 +11,5 @@ These are the specific programs needed to download:
 
 - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
+
+## Alumni Office Hours
