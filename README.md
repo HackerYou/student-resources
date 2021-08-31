@@ -8,7 +8,7 @@ This repository has all the information you need in order to successfully naviga
   - [Slack](./Slack.md)
   - [GitHub](./GitHub.md)
 - General Student Information
-  - [Health and Wellness](./health.md)
+  - [Health and Wellness](./juno-student-resources-for-self-care.md)
   - [Recordings of Classes](./recordings.md)
 - General Con-Ed Students
   - [Letters of Completion](./letter-of-completion.md)
