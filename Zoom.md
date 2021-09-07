@@ -4,8 +4,8 @@
 Zoom is where we host all of our virtual classes. While we use Slack to communicate (see [Slack](/Slack.md) for more information), we use Zoom as the virtual classroom to teach our materials. Once signed up for a course, you will be given a Zoom link in your Welcome Email to access the Zoom classroom. This link will be active right at the start of a course until its end. The link will also be posted in the Slack Classroom Channel. 
 
 ## How to Download Zoom
-To download Zoom, use this [link](https://zoom.us/download?zcid=1231) and follow the instructions on their webpage.  
-**from Joanna, add something about having to download zoom and making sure you have the latest version (whatever we have in the welcome email)**
+To download Zoom, use this [link](https://zoom.us/download?zcid=1231) and follow the instructions on their webpage. NOTE: if you already have Zoom installed on your computer, please ensure you have version 5.0 or higher.
+
 
 ## The Zoom Basics
 
