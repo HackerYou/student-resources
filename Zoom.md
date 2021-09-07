@@ -10,7 +10,7 @@ To download Zoom, use this [link](https://zoom.us/download?zcid=1231) and follow
 ## The Zoom Basics
 
 ### Display Name
-Once you enter a Zoom Room for the first time, you will be prompted to add your name. Please make sure that your name on Zoom should reflect the name you put on the pre-course form or the name you registered with. If you have a preferred name, you can use this as well. For more information on how to update your name and your profile information, please refer to this guide entitled [Customizing your profile](https://support.zoom.us/hc/en-us/articles/201363203-Customizing-your-profile)
+Once you enter a Zoom Room for the first time, you will be prompted to add your name. Please make sure that your name on Zoom should reflect the name you put on the pre-course form or the name you registered with. If you have a preferred name, you can use this as well. For more information on how to update your name and your profile information, please refer to this guide entitled [Customizing your profile](https://support.zoom.us/hc/en-us/articles/201363203-Customizing-your-profile).
 
 ### How to Add Pronouns
 To see how to add your pronouns to your Zoom profile, please refer to [this guide](https://support.zoom.us/hc/en-us/articles/4402698027533). 
@@ -29,4 +29,4 @@ During classes in the Zoom Classroom, we ask you to do the following:
 - Hide Self-View
 - Closed Captioning
 - Leaving Computer Audio?
-**Looms would be good, or even instructions with screenshots. Create this for the items above**
+- **Looms would be good, or even instructions with screenshots. Create this for the items above**
