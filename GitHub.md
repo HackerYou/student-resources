@@ -1,6 +1,6 @@
 # GitHub
 
-This is where yuo will acceess your course notes. To access your specific course notes, please view these instructions:
+This is where you will access your course notes. To access your specific course notes, please view these instructions:
 
 - You’ll receive an email invite from GitHub that will prompt you to sign up. Please note: the invites sometimes appear as junk mail, please check your spam folder for the emails.
 - Click “Join @ HackerYou” and either sign-in with your existing account or create a new account.
