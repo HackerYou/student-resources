@@ -10,7 +10,7 @@ Download Slack Desktop App ([Mac](https://slack.com/intl/en-ca/downloads/mac?geo
 The desktop version of Slack provides access to more features, so please ensure you have downloaded the desktop version before your course begins. 
 
 ## Accepting a Slack invite
-Once you've joined a class, you will be sent a Slack invite to the email you provided closer to the start of class. Please refer to the Welcome Email you receive for the approximate date you'll be added for your class. Once received, click the email invite and you'll be added to the classroom channel. 
+Once you've joined a class, you will be sent a Slack invite to the email you provided closer to the start of class. Please refer to the Welcome Email you receive for the approximate date you'll be added for your class. Once received, click the email invite and you'll be added to the class channel. See below on how to access your class channel on Slack. 
 NOTE: If you have already been a part of a course at Juno previously, you will be added to Slack via your previous account. 
 
 ## How to create a Slack profile 
@@ -25,10 +25,6 @@ Use this guide to [Edit your Profile](https://slack.com/intl/en-ca/help/articles
 - In “Bio” add a short About You statement. 
 - Click “Save Changes” and marvel at your complete profile!
 
-### How to have slack calls
-Here is an overview on how to [Make Calls in Slack](https://slack.com/intl/en-ca/help/articles/216771908-Make-calls-in-Slack). Please note, you'll only be able to video call 1:1 and screen sharing is unavailable. 
-
-
 ## How to access class channels on Slack
 Before your class begins, you will be added to your class channel. 
 1. On the leftside bar (add screenshot), you should see your course there.
@@ -39,15 +35,14 @@ Before your class begins, you will be added to your class channel.
 If you don't see the the couse on the leftside bar, here's how you can search for it:
 - ADD instructions  
 
+
 ## The Slack Basics
 ### Slack Etiquette
 Please make sure you are being respectful of everyone in your Slack channels. At Juno, we value inclusion and respect, and so we want to make sure everyone is practicing these values as they communicate in channels. This includes using inclusive language and making sure you are using the correct pronouns for people. 
-
 - don't use @here or @channel in public channels
 - "messaging to add in on the 'guys' slackbot"
 
 ### How to View Pinned Messages
-
 1. Hover over the message you'd like to pin in the channel until the bar of commands shows
 2. Click the "...(More Actions)" 
 3. You should see an option entitled "Pin to Channel". Click on that and the message will show as a pinned message in the channel
@@ -55,7 +50,10 @@ Please make sure you are being respectful of everyone in your Slack channels. At
 ### Bookmarks
 In certain classes, you may see a Bookmarks Bar at the top. This includes important links to use throughout the duration of class. 
 
-### Slack Community Channels they have access to
+### How to have calls on Slack
+Here is an overview on how to [Make Calls in Slack](https://slack.com/intl/en-ca/help/articles/216771908-Make-calls-in-Slack). Please note, you'll only be able to video call 1:1 and screen sharing is unavailable. 
+
+### Slack Community Channels
 Once you are added to the Juno College Community Slack, you will automatically be added to the following channels:
 - helpme: this is where you can ask any general questions about the code you're working with
 - random: a.k.a. our party room! Casual chit-chats and general fun go here!
