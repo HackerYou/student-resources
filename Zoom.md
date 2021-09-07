@@ -9,10 +9,11 @@ To download Zoom, use this [link](https://zoom.us/download?zcid=1231) and follow
 
 ## The Zoom Basics
 
+### Display Name
+Once you enter a Zoom Room for the first time, you will be prompted to add your name. Please make sure that your name on Zoom should reflect the name you put on the pre-course form or the name you registered with. If you have a preferred name, you can use this as well. For more information on how to update your name and your profile information, please refer to this guide entitled [Customizing your profile](https://support.zoom.us/hc/en-us/articles/201363203-Customizing-your-profile)
+
 ### How to Add Pronouns
 To see how to add your pronouns to your Zoom profile, please refer to [this guide](https://support.zoom.us/hc/en-us/articles/4402698027533). 
-
-**from Joanna, also make a note somewhere that their zoom name should reflect the name they put on their pre-course form/registered with**
 
 ### Break-out Rooms
 From time to time, instructors may put you into break-out rooms where you'll be able to collaborate in small groups, discuss project ideas or do in-class exercises with your classmates. The instructor will automatically asssign you to a break-out room, so all you need to do is click the accept button when the pop-up appears on your screen.  
@@ -26,5 +27,6 @@ During classes in the Zoom Classroom, we ask you to do the following:
 - Mute/unmute
 - Video on/off
 - Hide Self-View
-- **from Joanna, also add in Closed Captioning, leaving computer audio**
-- **Looms would be good, or even instructions with screenshots.**
+- Closed Captioning
+- Leaving Computer Audio?
+**Looms would be good, or even instructions with screenshots. Create this for the items above**
