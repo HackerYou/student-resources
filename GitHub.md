@@ -19,4 +19,4 @@ Below you can find the links to the course notes for your program. You will have
 - [Full Stack Development](https://github.com/HackerYou/con-ed-full-stack)
 - [UX](https://github.com/HackerYou/con-ed-ux)
 
-You will continue to have access to the GitHub notes even after the course finishes. If you have any difficulties accessing the notes, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com)
+You will continue to have access to the GitHub notes even after the course finishes. If you have any difficulties accessing the notes, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
