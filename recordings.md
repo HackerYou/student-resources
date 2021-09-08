@@ -5,4 +5,4 @@ These recordings will be available 1 week from the date of class.
 - For example, if you have a class on Thursday September 9, you will receive the recording in the Slack Classroom Channel on Frida September 10 and it will be available until Thursday September 16, 1 week from the date of class. 
 - PLEASE NOTE: we do not keep recordings stored and they will be deleted. 
 
-If you need any additional support or accommodation, please message [Laura Easson](mailto:laura.easson@junocollege.com) via email or Slack and we will review your request on a case by case basis.
+If you need any additional support or accommodation, please message Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com) and we will review your request on a case by case basis.
