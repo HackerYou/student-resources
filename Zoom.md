@@ -32,9 +32,16 @@ Here are some helpful screenshots in order to find the various settings on the Z
 #### Video on/off
 ![how to turn video on and off on Zoom](./assets/Zoom-Video-on-off.png)
 - Hide Self-View (coming soon)
-- Closed Captioning
+- Closed Captioning (coming soon)
 #### Leaving Computer Audio
 1. Click the "Share Screen" button
+![share screen on Zoom](./assets/Zoom-Computer-Audio-1.png)
+<br /><br /><br /><br /><br />
+
 2. You'll come to the basic sharing options, where you can choose to share your screen (which may be needed from time to time)
+![share screen on Zoom](./assets/Zoom-Computer-Audio-2.png)
+<br /><br /><br /><br /><br />
+
 3. Click on "Advanced" and click Computer Audio and you'll be able to just share your computer audio with the class. 
-- **Looms would be good, or even instructions with screenshots. Create this for the items above**
+![share audio on Zoom](./assets/Zoom-Computer-Audio-3.png)
+<br /><br /><br />
