@@ -8,7 +8,7 @@ This is where you will access your course notes. To access your specific course 
 
 - Click “Join @ HackerYou” and either sign-in with your existing account or create a new account.
 
-![GitHub login page](./assets/GitHub-1.png)
+![GitHub login page](./assets/GitHub-2.png)
 
 - Once you accept the invitation and are logged in, you will see the course notes on the homepage: https://github.com/HackerYou. The direct link to the course notes will also be pinned in your course slack channel. 
 
