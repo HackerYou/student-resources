@@ -24,9 +24,17 @@ During classes in the Zoom Classroom, we ask you to do the following:
 2. If you can, please leave your video on for the duration of class. This really helps our instructors and mentors know if students are understanding the material, and helps you connect better with your classmates. If you are not able to keep your camera on, please actively participate in the course slack channel, asking questions and engaging with your classmates and instructor.
 
 ### Zoom Tools
-- Mute/unmute
-- Video on/off
-- Hide Self-View
+
+Here are some helpful screenshots in order to find the various settings on the Zoom meeting screen:
+#### Mute/unmute
+![how to mute and unmute on Zoom](./assets/Zoom-Mute-unmute.png)
+
+#### Video on/off
+![how to turn video on and off on Zoom](./assets/Zoom-Video-on-off.png)
+- Hide Self-View (coming soon)
 - Closed Captioning
-- Leaving Computer Audio?
+#### Leaving Computer Audio
+1. Click the "Share Screen" button
+2. You'll come to the basic sharing options, where you can choose to share your screen (which may be needed from time to time)
+3. Click on "Advanced" and click Computer Audio and you'll be able to just share your computer audio with the class. 
 - **Looms would be good, or even instructions with screenshots. Create this for the items above**
