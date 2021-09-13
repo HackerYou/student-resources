@@ -36,10 +36,17 @@ You'll be using HelpCue and Slack! To ask questions, you'll join our Alumni Offi
 - Add the Alumni Office Hours classroom - our room code is Ptsu12hq
 ![location of where to add classroom room code](./assets/HelpCue-2.png)
 <br>
+
 ![adding room code](./assets/HelpCue-3.png)
 </br>
+
+![location of room on HelpCue](./assets/HelpCue-4.png)
+</br>
+
 - Submit your question to HelpCue & Include your @SlackName
   - You can use the following question format: "I am having trouble with ______. My slack username is ______."  
-![asking a question on HelpCue](./assets/HelpCue-4.png)
-</br></br>
+
+![asking a question on HelpCue](./assets/HelpCue-5.png)
+</br>
+
 - One of our awesome alumni will reach out to you via Slack and help resolve your misbehaving code or review concepts! Our alumni will be on HelpCue on the designated dates and times waiting for your questions to help you out individually. 
