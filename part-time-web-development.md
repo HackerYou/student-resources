@@ -30,9 +30,16 @@ Office Hours occur every other Thursday from 6:00pm - 8:00pm EDT and every other
 
 ### How do these sessions run?
 You'll be using HelpCue and Slack! To ask questions, you'll join our Alumni Office Hours HelpCue Classroom. Here are some further instructions on how to participate:
-- Log into [HelpCue](https://www.helpcue.com/) - our room code is Ptsu12hq
+- Log into [HelpCue](https://www.helpcue.com/) 
+![sign in page for HelpCue](./assets/HelpCue-1.png)
+</br></br>
+- Add the Alumni Office Hours classroom - our room code is Ptsu12hq
+![location of where to add classroom room code](./assets/HelpCue-2.png)
+<br>
+![adding room code](./assets/HelpCue-3.png)
+</br>
 - Submit your question to HelpCue & Include your @SlackName
   - You can use the following question format: "I am having trouble with ______. My slack username is ______."  
+![asking a question on HelpCue](./assets/HelpCue-4.png)
+</br></br>
 - One of our awesome alumni will reach out to you via Slack and help resolve your misbehaving code or review concepts! Our alumni will be on HelpCue on the designated dates and times waiting for your questions to help you out individually. 
-
-We should add screenshots and also some sample questions for them! 
