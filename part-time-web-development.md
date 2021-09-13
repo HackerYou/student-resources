@@ -1,7 +1,6 @@
 # Part-Time Web Development
 
-I think we should have a mini table of contents here that links below so it's like this and clickable:
-- Course Link
+- [Course Link](#course-link)
 - Programs to Download
 - Alumni Office Hours
 
