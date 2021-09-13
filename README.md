@@ -9,7 +9,7 @@ This repository has all the information you need in order to successfully naviga
   - [Slack](./Slack.md)
   - [GitHub](./GitHub.md)
 - General Student Information
-  - [Health and Wellness](./juno-student-resources-for-self-care.pdf)
+  - [Health and Wellness](./health.md)
   - [Course Feedback](./course-feedback.md)
   - [Tax Information](./tax-information.md)
   - [Invoices](./invoices.md)
