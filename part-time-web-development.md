@@ -2,6 +2,7 @@
 
 - [Course Link](#course-link)
 - [Programs to Download](#programs-to-download)
+- [Where to Ask for Help](#where-to-ask-for-help)
 - [Alumni Office Hours](#alumni-office-hours)
 
 
@@ -19,6 +20,13 @@ These are the specific programs needed to download:
 - [Visual Studio Code](https://code.visualstudio.com/download)
 
 Please review the Set-Up For Success section of [Student Resources](https://github.com/HackerYou/student-resources) to ensure you have Zoom and Slack downloaded. Please also make sure that you have completed the Pre-Course Form for your program. The Pre-Course Form for your specific course is shared in your Welcome Email.
+
+## Where to Ask for Help
+There are many ways to ask for help after class hours: 
+1. You can use the Slack Channel **#helpme** and you'll be able to ask your question to many alumni of our programs
+2. Use the **classroom channel** for your course to ask a question and perhaps a classmate or two will be able to help you!
+3. **After-class Menor Office Hours** are a great place to ensure you'll be getting your questions answered by the mentors of your course
+4. **Alumni Office Hours** occur on Thursdays from 6:00pm - 8:00pm (Eastern) or Saturdays/Sundays 1:00pm - 4:00pm (Eastern) and during these sessions, you can ask for help from our amazing Alumni Mentors! Want to learn more about **Alumni Office Hours**? Read below!
 
 ## Alumni Office Hours
 
