@@ -92,7 +92,7 @@ Online counselling services with licensed therapists that may be covered by indi
 VON is a not for profit, national health care organization and registered charity offering a wide range of community health care solutions on a 24/7 basis.
 
 ### [Blog Post: How Do I Get Over Imposter Syndrome?](https://holapapi.substack.com/p/how-do-i-get-over-imposter-syndrome)
-Advice from John Paul Brammer Emergency Resources
+Advice from John Paul Brammer
 
 ## Emergency Resources
 
