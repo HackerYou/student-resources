@@ -50,51 +50,71 @@ Thinking Distortions to avoid:
 </br></br>
 
 ## Health and Mental Health Resources
-### [Good2Talk](/https://good2talk.ca/) 
+### [Good2Talk](https://good2talk.ca/) 
 Good2Talk provides confidential support services for post-secondary students in Ontario and Nova Scotia.
 - Phone and text support available
 
 ### [Gerstein Crisis Centre](https://gersteincentre.org/)
 A 24/7 distress line at 416-929-5200 for students who are experiencing an emotional crisis and who are in need of immediate assistance.
-Crisis Services Canada
+
+### [Crisis Services Canada](https://www.crisisservicescanada.ca/en/)
 Crisis Services Canada (CSC) is a national network of existing distress, crisis and suicide prevention line services. We are committed to supporting any person living in Canada who is affected by suicide, in the most caring and least intrusive manner possible.
-● 24/7 phone and text support available
-ONTX Ontario Crisis Service
+- 24/7 phone and text support available
+
+### [ONTX Ontario Crisis Service](https://distresscentredurham.com/ontario-online-text-crisis-services/)
 Online and text crisis support services
-● Crisis Chat (2 pm - 2 am ET): ​www.dcontario.org/ontx.html
-● Crisis Text (2 pm - 2 am ET): 258258
-Free Workouts You can Do at Home- All Levels
+- Crisis Chat (2 pm - 2 am ET): www.dcontario.org/ontx.html
+- Crisis Text (2 pm - 2 am ET): 258258
+
+### [Free Workouts You can Do at Home- All Levels](https://www.bostonglobe.com/2020/03/15/nation/not-going-gym-here-are-some-free-workouts-you-can-do-home-during-coronavirus-shutdown/?s_campaign=breakingnews:newsletter)
       
-  Five Free Mindfulness Apps Worth Your Attention
-For Ontario Residents | BEACON Digital Therapy
-BEACON digital therapy that can help you overcome mental health concerns related to depression, anxiety, panic, insomnia, and PTSD. BEACON digital therapy is now available free of charge to support Ontarians through stress and mental well-being concerns during COVID-19, funded by the Government of Ontario.
-AbilitiCBT
+### [Five Free Mindfulness Apps Worth Your Attention](https://www.mindful.org/free-mindfulness-apps-worthy-of-your-attention/)
+
+### [For Ontario Residents | MindBeacon Therapy](https://www.mindbeacon.com/)
+MindBeacon therapy that can help you overcome mental health concerns related to depression, anxiety, panic, insomnia, and PTSD. MindBeacon is now available free of charge to support Ontarians through stress and mental well-being concerns during COVID-19, funded by the Government of Ontario.
+
+### [AbilitiCBT](https://ontario.abiliticbt.com/home)
 AbilitiCBT is an internet-based cognitive behavioral therapy (iCBT) program that you can access from any device, any time. Therapist monitored/guided and self-guided CBT journeys available.
-BounceBack
+
+### [BounceBack](https://bouncebackontario.ca/)
 A free, evidence-based cognitive behavioural therapy (CBT) program that offers guided mental health self-help supports for adults and youth 15+ using workbooks, online videos and phone coaching.
-Big White Wall
+
+### [Togetherall](https://togetherall.com/en-ca/)
 An online peer-to-peer support community for mental health
-Maple
+
+### [Maple](https://www.getmaple.ca/providers/psychotherapist-counselling/)
 Connect with a licensed therapist for mental health help online. You can chat by text, audio or video.
-BetterHelp
+
+### [BetterHelp](https://www.betterhelp.com/)
 Online counselling services with licensed therapists that may be covered by individual benefits.
-CARMHA: Dealing with Mood-Related Problems in the Workplace
-A free tool intended for any employee dealing with low mood or depression. It is relevant to individuals at work, off work, or returning to work.
-VON Canada
+
+### [VON Canada](https://www.von.ca/)
 VON is a not for profit, national health care organization and registered charity offering a wide range of community health care solutions on a 24/7 basis.
-Blog Post: How Do I Get Over Imposter Syndrome?
+
+### [Blog Post: How Do I Get Over Imposter Syndrome?](https://holapapi.substack.com/p/how-do-i-get-over-imposter-syndrome)
 Advice from John Paul Brammer Emergency Resources
-GTA Community Services
+
+## Emergency Resources
+
+[GTA Community Services](https://www.dcogt.com/community-services)
 A collection of emergency housing, clothing, and food resources
             
- COVID-19 Specific Resources
-Temporary Remote Job Opportunities/Support Funds
-GTA Black Community Support Fund
-crowdfunding with links to other resources, request for support through BLM Toronto
-Skillcrush article: ​25+ Sites for Finding Remote Work Includes advice, tips, and additional resources
-COVID-19 Related Health and Mental Health Resources
-CAMH on coping with stress and anxiety during COVID-19
+## COVID-19 Specific Resources
+
+## Temporary Remote Job Opportunities/Support Funds
+
+[GTA Black Community Support Fund](https://www.gofundme.com/f/black-emergency-support-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet)
+Crowdfunding with links to other resources, request for support through BLM Toronto
+
+[Skillcrush article: ​25+ Sites for Finding Remote Work](https://skillcrush.com/blog/sites-finding-remote-work/?fbclid=IwAR1QFYOlDSrVz_FKokc10pKUJQ3Ocd1Mlj8YCjRaPV0InMLTyA3GMayH1HA)
+Includes advice, tips, and additional resources
+
+## COVID-19 Related Health and Mental Health Resources
+
+[CAMH on coping with stress and anxiety during COVID-19](https://www.camh.ca/en/health-info/mental-health-and-covid-19)
 Expert offers Practical Advice to Manage your Coronavirus Anxiety
+
 https://www.virusanxiety.com/take-care
 Easy to navigate project with various resources for managing stress, anxiety, self care and physical wellness
-Walks, Meditation, Fear Lists: How to cope with coronavirus anxiety
+
+[Walks, Meditation, Fear Lists: How to cope with coronavirus anxiety](https://www.bostonglobe.com/2020/03/19/nation/walks-meditation-fear-lists-how-people-are-coping-with-coronavirus-anxiety/?s_campaign=breakingnews:newsletter)
