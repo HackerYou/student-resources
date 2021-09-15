@@ -50,10 +50,11 @@ Thinking Distortions to avoid:
 </br></br>
 
 ## Health and Mental Health Resources
-[Good2Talk](/https://good2talk.ca/) WORK IN PROGRESS
+### [Good2Talk](/https://good2talk.ca/) 
 Good2Talk provides confidential support services for post-secondary students in Ontario and Nova Scotia.
-● Phone and text support available
-Gerstein Crisis Centre
+- Phone and text support available
+
+### [Gerstein Crisis Centre](https://gersteincentre.org/)
 A 24/7 distress line at 416-929-5200 for students who are experiencing an emotional crisis and who are in need of immediate assistance.
 Crisis Services Canada
 Crisis Services Canada (CSC) is a national network of existing distress, crisis and suicide prevention line services. We are committed to supporting any person living in Canada who is affected by suicide, in the most caring and least intrusive manner possible.
