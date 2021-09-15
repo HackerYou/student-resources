@@ -101,7 +101,7 @@ A collection of emergency housing, clothing, and food resources
             
 ## COVID-19 Specific Resources
 
-## Temporary Remote Job Opportunities/Support Funds
+### Temporary Remote Job Opportunities/Support Funds
 
 ### [GTA Black Community Support Fund](https://www.gofundme.com/f/black-emergency-support-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet)
 Crowdfunding with links to other resources, request for support through BLM Toronto
