@@ -96,25 +96,25 @@ Advice from John Paul Brammer
 
 ## Emergency Resources
 
-[GTA Community Services](https://www.dcogt.com/community-services)
+### [GTA Community Services](https://www.dcogt.com/community-services)
 A collection of emergency housing, clothing, and food resources
             
 ## COVID-19 Specific Resources
 
 ## Temporary Remote Job Opportunities/Support Funds
 
-[GTA Black Community Support Fund](https://www.gofundme.com/f/black-emergency-support-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet)
+### [GTA Black Community Support Fund](https://www.gofundme.com/f/black-emergency-support-fund?utm_medium=copy_link&utm_source=customer&utm_campaign=p_lico+share-sheet)
 Crowdfunding with links to other resources, request for support through BLM Toronto
 
-[Skillcrush article: ​25+ Sites for Finding Remote Work](https://skillcrush.com/blog/sites-finding-remote-work/?fbclid=IwAR1QFYOlDSrVz_FKokc10pKUJQ3Ocd1Mlj8YCjRaPV0InMLTyA3GMayH1HA)
+### [Skillcrush article: ​25+ Sites for Finding Remote Work](https://skillcrush.com/blog/sites-finding-remote-work/?fbclid=IwAR1QFYOlDSrVz_FKokc10pKUJQ3Ocd1Mlj8YCjRaPV0InMLTyA3GMayH1HA)
 Includes advice, tips, and additional resources
 
 ## COVID-19 Related Health and Mental Health Resources
 
-[CAMH on coping with stress and anxiety during COVID-19](https://www.camh.ca/en/health-info/mental-health-and-covid-19)
+### [CAMH on coping with stress and anxiety during COVID-19](https://www.camh.ca/en/health-info/mental-health-and-covid-19)
 Expert offers Practical Advice to Manage your Coronavirus Anxiety
 
-https://www.virusanxiety.com/take-care
+### https://www.virusanxiety.com/take-care
 Easy to navigate project with various resources for managing stress, anxiety, self care and physical wellness
 
-[Walks, Meditation, Fear Lists: How to cope with coronavirus anxiety](https://www.bostonglobe.com/2020/03/19/nation/walks-meditation-fear-lists-how-people-are-coping-with-coronavirus-anxiety/?s_campaign=breakingnews:newsletter)
+### [Walks, Meditation, Fear Lists: How to cope with coronavirus anxiety](https://www.bostonglobe.com/2020/03/19/nation/walks-meditation-fear-lists-how-people-are-coping-with-coronavirus-anxiety/?s_campaign=breakingnews:newsletter)
