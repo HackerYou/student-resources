@@ -35,30 +35,31 @@ Here are some helpful screenshots in order to find the various settings on the Z
 #### Hide Self View
 1. Click on the "..." on your picture
 ![self view instructions](./assets/Zoom-Hide-Self-View-1.png)
-<br /><br /><br /><br /><br />
+<br /><br />
 
 2. Click on "Hide Self View"
 ![self view instructions](./assets/Zoom-Hide-Self-View-2.png)
-
+<br /><br /><br /><br /><br />
 
 #### Closed Captioning 
 1. Your instructor will enable Closed Captioning on your first class. Once enabled, you will see a Closed Caption/Live Transcript button in the bottom bar of your zoom window
 ![Closed Captioning instructions](./assets/Zoom-CC-1.png)
-<br /><br /><br /><br /><br />
+<br /><br />
 
 2. From the dropdown menu, click on "View Full Transcript"
 ![Closed Captioning instructions](./assets/Zoom-CC-2.png)
-<br /><br /><br /><br /><br />
+<br /><br />
 
 3. The Live Transcript / Closed Captioning will appear on the right hand side. If you want to turn it off, click the Live Transcript button again
 ![Closed Captioning instructions](./assets/Zoom-CC-3.png)
-<br /><br /><br /><br /><br />
+<br /><br />
 
 Note: The provided subtitles can be clicked and dragged to move their position in the meeting window.
 To adjust the caption size:
 - Click the up ^ next to Start Video / Stop Video. 
 - Click Video Settings then Accessibility.
 - Move the slider to adjust the caption size.
+<br /><br /><br /><br /><br />
 
 #### Leaving Computer Audio
 1. Click the "Share Screen" button
