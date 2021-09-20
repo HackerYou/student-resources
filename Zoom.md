@@ -27,7 +27,7 @@ During classes in the Zoom Classroom, we ask you to do the following:
 
 Here are some helpful screenshots in order to find the various settings on the Zoom meeting screen:
 #### Mute/unmute
-![how to mute and unmute on Zoom](./assets/Zoom-Mute-unmute.png)
+![how to mute and unmute on Zoom](./assets/Zoom - Mute and Unmute.png)
 
 #### Video on/off
 ![how to turn video on and off on Zoom](./assets/Zoom-Video-on-off.png)
