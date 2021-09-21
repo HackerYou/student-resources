@@ -51,7 +51,7 @@ Huddles are a great way to communicate with individuals quickly via voice chat. 
 ### Slack Etiquette
 Please make sure you are being respectful of everyone in your Slack channels. At Juno, we value inclusion and respect, and so we want to make sure everyone is practicing these values as they communicate in channels. This includes using inclusive language and making sure you are using the correct pronouns for people. 
 - don't use @here or @channel in public channels
-- there will be a gentle reminder in the form of Slackbot anytime someone uses gendered specific language (i.e. you guys, ladies and gentleman, etc.). This is only to remind you to please use inclusive gender-neutral language (such as pals, friends, cohortmates, etc.)
+- there will be a gentle reminder in the form of Slackbot anytime gender-specific language is used (i.e. you guys, ladies and gentleman, etc.). This is only to remind you to please use inclusive gender-neutral language (such as pals, friends, cohortmates, etc.)
 
 ### How to View Pinned Messages
 1. Hover over the message you'd like to pin in the channel until the bar of commands shows
