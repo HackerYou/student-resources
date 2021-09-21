@@ -33,7 +33,10 @@ Before your class begins, you will be added to your class channel.
 - cohort#-bootcamp (for bootcamp)
 
 If you don't see the the course on the leftside bar, here's how you can search for it:
-- ADD instructions  
+- Find the Search Bar, which is typically located at the top of the Slack for Desktop app
+- Search for your classroom name (i.e. React) and it should appear in the list below the Search Bar
+
+If you do not see your classroom channel listed, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
 
 ## Slack Huddles
 Slack now has a feature where you can enter a huddle with people 1:1! A Huddle is voice-only conversation right in Slack. You can use this feature doing the following:
