@@ -39,11 +39,11 @@ If you don't see the the course on the leftside bar, here's how you can search f
 If you do not see your classroom channel listed, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
 
 ## Slack Huddles
-Slack now has a feature where you can enter a huddle with people 1:1! A Huddle is voice-only conversation right in Slack. You can use this feature doing the following:
+Slack now has a feature where you can enter a one-on-one voice conversation with someone! You can use this Huddle feature by doing the following:
 1. Click on the person in Slack you'd like to enter a Huddle with. You have to be in the messaging area, where you would send a DM to the person, in order to see the Huddle feature
-2. On the bottom left corner, you'll see an antenna and the person's name and a little headphone's icon. Switch that on
+2. On the bottom left corner, there is an antenna and the person's name and a little headphone's icon. Switch that antenna on!
 3. You've entered the Huddle! The person will be notified that you have started a Huddle with them and will join
-4. Voila! You can now talk to the person
+4. Voila! You can now talk to the person one-on-one
 
 Huddles are a great way to communicate with individuals quickly via voice chat. It works very similarly to call, but quicker and with no video. Try one today!
 
