@@ -62,7 +62,7 @@ Please make sure you are being respectful of everyone in your Slack channels. At
 In certain classes, you may see a Bookmarks Bar at the top. This includes important links to use throughout the duration of class. 
 
 ### How to have calls on Slack
-Here is an overview on how to [Make Calls in Slack](https://slack.com/intl/en-ca/help/articles/216771908-Make-calls-in-Slack). Please note, you'll only be able to video call 1:1 and screen sharing is unavailable. 
+Here is an overview on how to [Make Calls in Slack](https://slack.com/intl/en-ca/help/articles/216771908-Make-calls-in-Slack). Please note, you'll only be able to video call 1:1 and screen sharing is unavailable, unless you are in Bootcamp courses. 
 
 ### Slack Community Channels
 Once you are added to the Juno College Community Slack, you will automatically be added to the following channels:
