@@ -26,10 +26,8 @@ This repository has all the information you need in order to successfully naviga
        - [Accelerated JavaScript](./accelerated-javascript.md)
        - [Part-Time Data Analytics](./part-time-data.md)
        - [Accelerated Data Analytics](./accelerated-data.md)
-       - [React](./react.md)
        - [UX](./ux.md)
-       - [Wordpress and Shopify](./wordpress.md)
-       - [Full-Stack Development](./full-stack.md)
+
 - Bootcamp Course Information
    - Course Information for Web Development Bootcamp
        - [Bootcamp Notes](https://github.com/HackerYou/bootcamp-notes)
