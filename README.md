@@ -12,7 +12,7 @@ This repository has all the information you need in order to successfully naviga
   - [Health and Wellness](./health.md)
   - [Course Feedback](./course-feedback.md)
   - [Tax Information](./tax-information.md)
-  - [Invoices](./invoices.md)
+  - [Course Payments](./invoices.md)
   - [Enrol in Additional Courses](./enrol-for-courses.md)
 - Part-Time Course Information
   - General Information
