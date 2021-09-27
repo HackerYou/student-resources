@@ -3,7 +3,6 @@
 - [Course Link](#course-link)
 - [Programs to Download](#programs-to-download)
 - [Where to Ask for Help](#where-to-ask-for-help)
-- [Alumni Office Hours](#alumni-office-hours)
 
 ## Course Link
 These are the links to important documents for our current and upcoming courses. You will gain access to these notes before your first class. Please refer to your Welcome Email for the exact date of access.
