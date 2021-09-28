@@ -26,7 +26,7 @@ This repository has all the information you need in order to successfully naviga
        - [Accelerated JavaScript](./accelerated-javascript.md)
        - [Part-Time Data Analytics](./part-time-data.md)
        - [Accelerated Data Analytics](./accelerated-data.md)
-       - [UX](./ux.md)
+       - [Part-Time UX](./ux.md)
 
 - Bootcamp Course Information
    - Course Information for Web Development Bootcamp
