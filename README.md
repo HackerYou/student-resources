@@ -37,8 +37,8 @@ This repository has all the information you need in order to successfully naviga
        - [Certificates and Transcripts](./certificates-transcripts.md)
    - Course Information for Data Analytics Bootcamp
        - [Bootcamp Notes](https://github.com/HackerYou/data-bootcamp-notes)
-       - Stuff You Need to Know
+       - [Stuff You Need to Know](https://github.com/HackerYou/data-bootcamp-notes/tree/main/stuff-you-need-to-know)
        - [Alumni Office Hours](./alumni-office-hours.md)
-       - Important Dates
+       - [Important Dates](https://github.com/HackerYou/data-bootcamp-notes/blob/main/stuff-you-need-to-know/important-dates.md)
        - [Certificates and Transcripts](./certificates-transcripts.md)
   
