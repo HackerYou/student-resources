@@ -38,6 +38,20 @@ If you don't see the the course on the leftside bar, here's how you can search f
 
 If you do not see your classroom channel listed, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
 
+## Video Calling on Slack
+Slack works better as a downloaded program versus on the web app. You will need to have the desktop app in order to use full functionality, including making Slack video calls.
+
+To make a call:
+1. Type /call or press the phone icon at the top right of a direct message conversation or channel. This will send a call request to everyone in the direct message conversation or channel.
+2. When the call connects, you will have a few options at the bottom of the screen.
+- Turn your camera by pressing the camera icon at the bottom. 
+- Mute or unmute yourself using the microphone icon at the bottom. 
+- The computer screen icon will let you share your screen and select which desktop you would like to share.  
+- The smiley face icon lets you use emojis. You can add emojis by selecting the keyboard on the right hand side of the emojis
+- Hang up by pressing the red phone icon, or closing the window. 
+
+![Slack calling instructions](./assets/Setup-3.png)
+
 ## Slack Huddles (for Bootcamps only)
 Slack now has a feature where you can enter a one-on-one voice conversation with someone! You can use this Huddle feature by doing the following:
 1. Click on the person in Slack you'd like to enter a Huddle with. You have to be in the messaging area, where you would send a DM to the person, in order to see the Huddle feature
