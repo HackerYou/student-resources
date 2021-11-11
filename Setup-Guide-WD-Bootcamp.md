@@ -86,8 +86,8 @@ You’ll be added to a Slack channel with your Huddle Group classmates the first
 - After the first week: Mondays at 10am ET, you’ll video chat with your Huddle Group via Slack
 
 ### Tests & Exam
-- Tests and the exam will be held at 10am ET  (unless otherwise noted)
-- The test link will be shared in the Zoom classroom at 10am EST sharp and removed once the test begins
+- Tests and the exam will be held at 10am ET (unless otherwise noted)
+- The test link will be shared in the Zoom classroom at 10am ET sharp and removed once the test begins
 - Missing the test link means you’ll receive a 0 on the test or exam
 - You will have 15 minutes to complete tests (10 multiple choice questions) and 40 minutes to complete the exam (25 multiple choice questions)
 
