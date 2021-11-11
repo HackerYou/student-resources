@@ -28,12 +28,12 @@ This guide covers:
 - If you do not have access to an additional monitor, we recommend you set up the Zoom window so it takes up the half of your screen and you can view the notes and your text editor on the other half of your screen
 
 For example, here’s a set up with the zoom window on the top half of your screen:
-[ADD picture[
+![how to organize your screen with Zoom](./assets/Setup-1.png)
 
 </br>
 And here’s an example with your zoom screen on the left side of your screen:
-[Add picture[
 
+![an alternative way to organize your screen with Zoom](./assets/Setup-2.png)
 </br>
 
 ## VS Code Terminal & Live Share Extension
@@ -51,8 +51,9 @@ To open the terminal on Windows:
 - Use the Ctrl+` keyboard shortcut with the backtick character.
 - Use the View > Terminal menu command.
 - From the Command Palette (Ctrl+Shift+P), use the View: Toggle Integrated Terminal command.
-</br>
-Detailed explanation and examples: [Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
+
+Detailed explanation and examples:
+[Integrated Terminal](https://code.visualstudio.com/docs/editor/integrated-terminal)
 
 ### VS Code Live Share
 - Follow [this guide](https://www.digitalocean.com/community/tutorials/how-to-use-live-share-with-visual-studio-code) to download the Live Share extension
@@ -86,7 +87,9 @@ To make a call:
 - Mute or unmute yourself using the microphone icon at the bottom. 
 - The computer screen icon will let you share your screen and select which desktop you would like to share.  
 - The smiley face icon lets you use emojis. You can add emojis by selecting the keyboard on the right hand side of the emojis
-- Hang up by pressing the red phone icon, or closing the window. [add pictures[
+- Hang up by pressing the red phone icon, or closing the window. 
+
+![Slack calling instructions](./assets/Setup-3.png)
 
 ## GitHub
 To learn all about GitHub setup, please see the GitHub guide in this repository
