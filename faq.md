@@ -19,6 +19,8 @@ That does not include family members.
 **Q:** Do I get a tax form for my course? </br>
 **A:** If you would like more information on receiving tax forms, please visit our [Infomation on Tax Forms](./tax-information.md) page. 
 
+**Q:** How necessary is it to have access to a webcam for Juno courses? </br>
+**A:** We definitely encourage students to use their webcam if they have it, but it is definitely not necessary for the course. As long as you have a mic and a working computer, you should have all you need to succeed in yuor course(s). 
 
 
  
