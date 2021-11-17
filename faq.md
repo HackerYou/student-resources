@@ -4,11 +4,21 @@
 **A:** What we suggest is, if the computer is a bit older than the requirements of our courses, try that computer out! If you're finding that the first couple classes are not the greatest for your computer, then you might have to find an alternative for your course.
 
 **Q:** If I've taken a Juno course, do I get a discount on other Juno courses? </br>
-**A:** Yes! Juno Alumni get a discount - There's an alumni discount of $250, so all alumni (con ed and bootcamp) will get this applied for future courses
+**A:** Yes! Juno Alumni get a discount - There's an alumni discount of $250, so all alumni will get this applied for future courses.
 That does not include family members.
 
 **Q:** If I take a course at Juno College, will I be given a certificate or letter of completion? </br>
-**A:** If you have taken one of our Part-Time or Accelerated courses, a letter of completion is given to students by request only. If you'd like to receive this, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com). For our Bootcamp programs, you will receive a printed copy of your certificate via mail. Laura will let your cohort know when you'll approximately receive this. 
+**A:** If you have taken one of our Part-Time or Accelerated courses, a letter of completion is given to students by request only. If you'd like to receive this, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com). For our Bootcamp programs, you will receive a printed copy of your certificate via mail. Laura will let your cohort know when you'll approximately receive this. Sadly, we cannot provide a digital copy of your certificate, but if you need a letter of completion, you can contact Charlotte Nurse via [email](mailto:charlotte@junocollege.com)
+
+**Q:** I've had something come up and I can no longer take the course I'm enrolled in. What are my options? </br>
+**A:** Please visit our [Deferral and Refund Information](./deferral.md) for more information on your options. 
+
+**Q:** I have enrolled in a course but have not received any information regarding the course. Who should I contact? </br>
+**A:** If you have not received any information on your course and it is a couple days before your course begins, please reach out to Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
+
+**Q:** Do I get a tax form for my course? </br>
+**A:** If you would like more information on receiving tax forms, please visit our [Infomation on Tax Forms](./tax-information.md) page. 
 
 
 
+ 
