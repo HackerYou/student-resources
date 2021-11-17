@@ -7,3 +7,8 @@
 **A:** Yes! Juno Alumni get a discount - There's an alumni discount of $250, so all alumni (con ed and bootcamp) will get this applied for future courses
 That does not include family members.
 
+**Q:** If I take a course at Juno College, will I be given a certificate or letter of completion? </br>
+**A:** If you have taken one of our Part-Time or Accelerated courses, a letter of completion is given to students by request only. If you'd like to receive this, you can contact Laura Easson. For our Bootcamp programs, you will receive a printed copy of your certificate via mail. Laura will let your cohort know when you'll approximately receive this. 
+
+
+
