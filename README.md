@@ -14,6 +14,7 @@ This repository has all the information you need in order to successfully naviga
   - [Tax Information](./tax-information.md)
   - [Course Payments](./invoices.md)
   - [Enrol in Additional Courses](./enrol-for-courses.md)
+  - [Frequently Asked Questions](./faq.md)
 - Part-Time Course Information
   - General Information
        - [Letters of Completion](./letter-of-completion.md)
