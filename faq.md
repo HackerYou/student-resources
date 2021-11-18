@@ -1,4 +1,4 @@
-# FAQs
+# Frequently Asked Questions
 
 **Q:** I have an older computer than the requirements of my course. Will I need to use a totally different laptop/computer for the courses? </br>
 **A:** If the computer is a bit older than the requirements of our courses, try that computer out! If during the first few classes you notice your computer is not working well, you might have to find an alternative for your course.
