@@ -80,10 +80,10 @@ To learn all about GitHub setup, please see the [GitHub](./GitHub.md) guide in t
 ### Asking Questions After Class Hours
 - The #helpme Slack channel in the Juno College Workspace is available to you any time!
 - Evening and weekend Alumni Office Hours are scheduled throughout your Bootcamp. The timing of these sessions will be added to your Bootcamp Student calendar and are noted in your Important Dates document.
-- 1:1 Mentorship can always be arranged if you want support with revisiting concepts! Please reach out to Laura Easson (Student Experience Coordinator) to schedule time with an alumni mentor.
+- 1:1 Mentorship can always be arranged if you want support with revisiting concepts! Please Laura Easson (the Student Experience Coordinator) via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) to schedule time with an alumni mentor.
 
 ### Huddles
-You’ll be added to a Slack channel with your Huddle Group classmates the first week of classes.
+You’ll be added to a Slack channel in the Juno Bootcamp Workspace with your Huddle Group classmates the first week of classes.
 - Information on what these are and how they work will be shared during your first couple weeks of class!
 - After the first week: Mondays at 10am ET, you’ll video chat with your Huddle Group via Slack
 
