@@ -16,13 +16,13 @@ Please Note: If you are a returning Juno student, and have provided your GitHub 
 
 Below you can find the links to the course notes for your program. You will have access to the notes before your course begins (please see your Welcome Email for more details on when you will be granted GitHub access). You must be logged in to access the notes. 
 
-Part-time Courses
+**Part-time Courses**
 - [Data Analytics](https://github.com/HackerYou/con-ed-data-foundations)
 - [Web Development](https://github.com/HackerYou/con-ed-web-dev)
 - [JavaScript](https://github.com/HackerYou/con-ed-javascript)
 - [UX](https://github.com/HackerYou/con-ed-ux)
 
-Bootcamp Courses
+**Bootcamp Courses**
 - [Web Development Bootcamp](https://github.com/HackerYou/bootcamp-notes)
 - [Data Analytics Bootcamp](https://github.com/HackerYou/data-bootcamp-notes)
 
