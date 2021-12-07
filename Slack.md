@@ -13,6 +13,9 @@ The desktop version of Slack provides access to more features, so please ensure 
 Once you've joined a class, you will be sent a Slack invite to the email you provided closer to the start of class. Please refer to the Welcome Email you receive for the approximate date you'll be added for your class. Once received, click the email invite and you'll be added to the class channel. See below on how to access your class channel on Slack. 
 NOTE: If you have already been a part of a course at Juno previously, you will be added to Slack via your previous account. 
 
+### Bootcamp Workspace VS Juno College Workspace (Bootcamps only)
+For Bootcamp courses, you will receive a separate invite for the Juno Bootcamp Workspace. When you receive the invite, you will have to add this workspace to your previous Juno College Slack account. We recommend connecting your previous account, as you will still be using the Juno College Workspace during Bootcamp courses. 
+
 ## How to create a Slack profile 
 Use this guide to [Edit your Profile](https://slack.com/intl/en-ca/help/articles/204092246-Edit-your-profile) or follow along with these simple step by step instructions:
 
@@ -38,7 +41,7 @@ If you don't see the the course on the leftside bar, here's how you can search f
 
 If you do not see your classroom channel listed, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
 
-## Video Calling on Slack
+## Video Calling on Slack 
 Slack works better as a downloaded program versus on the web app. You will need to have the desktop app in order to use full functionality, including making Slack video calls.
 
 To make a call:
