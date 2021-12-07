@@ -19,8 +19,8 @@ This guide covers:
 ### Zoom Set Up
 - Create a free account using the same email address you used to sign up for your Juno course
 - Test your microphone and webcam with Zoom
-- Zoom now allows you to add your pronouns. Refer to this guide to set this up 
-- View the Zoom Overview to get familiar with Zoom on your machine
+- Zoom now allows you to add your pronouns. Refer to [this guide](https://support.zoom.us/hc/en-us/articles/4402698027533) to set this up 
+- View the [Zoom Overview](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting) to get familiar with Zoom on your machine
 
 ### Suggested Environment Setup for Lessons
 - Use “Speaker View” in zoom for the best experience
