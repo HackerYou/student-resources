@@ -57,12 +57,15 @@ Detailed explanation and examples:
 
 ### VS Code Live Share
 - Follow [this guide](https://www.digitalocean.com/community/tutorials/how-to-use-live-share-with-visual-studio-code) to download the Live Share extension
+</br>
 
 ## Slack
 To learn all about Slack setup, please see the [Slack](./Slack.md) guide in this repository. 
+</br> 
 
 ## GitHub
 To learn all about GitHub setup, please see the [GitHub](./GitHub.md) guide in this repository.
+</br>
 
 ## Participating and Getting Help
 
