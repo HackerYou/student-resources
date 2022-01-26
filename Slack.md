@@ -15,6 +15,15 @@ NOTE: If you have already been a part of a course at Juno previously, you will b
 
 ### Bootcamp Workspace VS Juno College Workspace (Bootcamps only)
 For Bootcamp courses, you will receive a separate invite for the Juno Bootcamp Workspace. When you receive the invite, you will have to add this workspace to your previous Juno College Slack account. We recommend connecting your previous account, as you will still be using the Juno College Workspace during Bootcamp courses. 
+</br>
+NOTE: Once your receive your invite to the Juno Bootcamp Workspace, follow these steps if you're having trouble accessing the workspace:
+1. Click on the link in the Email Invite you receive from Slack (might be in your junk email)
+2. A Slack webpage will open and it will prompt you to create a new account. If you click through this menu, you should see an option to sign into your account already
+3. Once you've added the workspace via this webpage, you should be able to see the workspace in your Slack App. If you still do not see it:
+   a. Once signed into the Slack App, click the "+" sign below your workspaces and select "Sign in to another workspace"
+   b. Follow the prompts and you should see the workspace appear in the app! 
+</br>
+If you are still having issues accessing the Juno Bootcamp Workspace after trying these attempts, please contact Laura Easson and she will help you.
 
 ## How to create a Slack profile 
 Use this guide to [Edit your Profile](https://slack.com/intl/en-ca/help/articles/204092246-Edit-your-profile) or follow along with these simple step by step instructions:
