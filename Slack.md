@@ -20,10 +20,10 @@ NOTE: Once your receive your invite to the Juno Bootcamp Workspace, follow these
 1. Click on the link in the Email Invite you receive from Slack (might be in your junk email)
 2. A Slack webpage will open and it will prompt you to create a new account. If you click through this menu, you should see an option to sign into your account already
 3. Once you've added the workspace via this webpage, you should be able to see the workspace in your Slack App. If you still do not see it:
-   a. Once signed into the Slack App, click the "+" sign below your workspaces and select "Sign in to another workspace"
-   b. Follow the prompts and you should see the workspace appear in the app! 
+   - Once signed into the Slack App, click the "+" sign below your workspaces and select "Sign in to another workspace"
+   - Follow the prompts and you should see the workspace appear in the app! 
 </br>
-If you are still having issues accessing the Juno Bootcamp Workspace after trying these attempts, please contact Laura Easson.
+If you are still having issues accessing the Juno Bootcamp Workspace after trying these attempts, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
 
 ## How to create a Slack profile 
 Use this guide to [Edit your Profile](https://slack.com/intl/en-ca/help/articles/204092246-Edit-your-profile) or follow along with these simple step by step instructions:
