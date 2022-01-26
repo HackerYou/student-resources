@@ -15,7 +15,7 @@ NOTE: If you have already been a part of a course at Juno previously, you will b
 
 ### Bootcamp Workspace VS Juno College Workspace (Bootcamps only)
 For Bootcamp courses, you will receive a separate invite for the Juno Bootcamp Workspace. When you receive the invite, you will have to add this workspace to your previous Juno College Slack account. We recommend connecting your previous account, as you will still be using the Juno College Workspace during Bootcamp courses. 
-</br>
+</br> </br>
 NOTE: Once your receive your invite to the Juno Bootcamp Workspace, follow these steps if you're having trouble accessing the workspace:
 1. Click on the link in the Email Invite you receive from Slack (might be in your junk email)
 2. A Slack webpage will open and it will prompt you to create a new account. If you click through this menu, you should see an option to sign into your account already
@@ -23,7 +23,7 @@ NOTE: Once your receive your invite to the Juno Bootcamp Workspace, follow these
    a. Once signed into the Slack App, click the "+" sign below your workspaces and select "Sign in to another workspace"
    b. Follow the prompts and you should see the workspace appear in the app! 
 </br>
-If you are still having issues accessing the Juno Bootcamp Workspace after trying these attempts, please contact Laura Easson and she will help you.
+If you are still having issues accessing the Juno Bootcamp Workspace after trying these attempts, please contact Laura Easson.
 
 ## How to create a Slack profile 
 Use this guide to [Edit your Profile](https://slack.com/intl/en-ca/help/articles/204092246-Edit-your-profile) or follow along with these simple step by step instructions:
@@ -48,7 +48,7 @@ If you don't see the the course on the leftside bar, here's how you can search f
 - Find the Search Bar, which is typically located at the top of the Slack for Desktop app
 - Search for your classroom name (i.e. React) and it should appear in the list below the Search Bar
 
-If you do not see your classroom channel listed, please contact Laura Easson via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) or [email](mailto:laura.easson@junocollege.com).
+If you do not see your classroom channel listed, please contact Laura Easson via Slack or email.
 
 ## Video Calling on Slack 
 Slack works better as a downloaded program versus on the web app. You will need to have the desktop app in order to use full functionality, including making Slack video calls.
