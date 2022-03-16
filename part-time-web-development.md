@@ -26,7 +26,7 @@ There are many ways to ask for help after class hours:
 1. You can use the Slack Channel **#helpme** and you'll be able to ask your question to many alumni of our programs
 2. Use the **classroom channel** for your course to ask a question and perhaps a classmate or two will be able to help you!
 3. **After-class Mentor Office Hours** are a great place to ensure you'll be getting your questions answered by the mentors of your course
-4. **Alumni Office Hours** occur on Thursdays from 6:00pm - 8:00pm (Eastern) or Saturdays/Sundays 1:00pm - 4:00pm (Eastern) and during these sessions, you can ask for help from our amazing Alumni Mentors! Want to learn more about **Alumni Office Hours**? Read below!
+4. **Alumni Office Hours** occur on Wednesdays/Thursdays from 6:00pm - 8:00pm (Eastern) or Saturdays/Sundays 1:00pm - 4:00pm (Eastern) and during these sessions, you can ask for help from our amazing Alumni Mentors! Want to learn more about **Alumni Office Hours**? Read below!
 
 ## Alumni Office Hours
 
@@ -34,7 +34,7 @@ There are many ways to ask for help after class hours:
 Alumni Office Hours are alumni-run help sessions for current students. If you need any project work help or need some additional help figuring out a concept, this is the session for you! A group of alumni mentors will be assigned to each Alumni Office Hour session, and, using HelpCue, you will be able to ask for assistance from one of our amazing alumni! Refer to your Welcome Email and class Slack Channel for your specific dates and times for these sessions.
 
 ### When are they?
-Alumni Office Hours occur every other Thursday from 6:00pm - 8:00pm EDT and every other Saturday/Sunday from 1:00pm - 4:00pm EDT. You will get reminders in your Slack Course Channel for the Alumni Office Hours that do not conflict with your program.
+Alumni Office Hours occur on Wednesday/Thursdays from 6:00pm - 8:00pm EDT or Saturday/Sundays from 1:00pm - 4:00pm EDT. You will get reminders in your Slack Course Channel for the Alumni Office Hours that do not conflict with your program.
 
 ### How do these sessions run?
 You'll be using HelpCue and Slack! To ask questions, you'll join our Alumni Office Hours HelpCue Classroom. Here are some further instructions on how to participate:
