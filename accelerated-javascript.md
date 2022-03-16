@@ -33,7 +33,7 @@ There are many ways to ask for help after class hours:
 Alumni Office Hours are alumni-run help sessions for current students. If you need any project work help or need some additional help figuring out a concept, this is the session for you! A group of alumni mentors will be assigned to each Alumni Office Hour session, and, using HelpCue, you will be able to ask for assistance from one of our amazing alumni! Refer to your Welcome Email and class Slack Channel for your specific dates and times for these sessions.
 
 ### When are they?
-Alumni Office Hours occur every other Thursday from 6:00pm - 8:00pm EDT and every other Saturday/Sunday from 1:00pm - 4:00pm EDT. You will get reminders in your Slack Course Channel for the Alumni Office Hours that do not conflict with your program.
+Alumni Office Hours occur on Wednesdays/Thursdays from 6:00pm - 8:00pm ET or Saturdays/Sundays from 1:00pm - 4:00pm ET. You will get reminders in your Slack Course Channel for the Alumni Office Hours that do not conflict with your program.
 
 ### How do these sessions run?
 You'll be using HelpCue and Slack! To ask questions, you'll join our Alumni Office Hours HelpCue Classroom. Here are some further instructions on how to participate:
