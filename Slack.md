@@ -22,6 +22,8 @@ NOTE: Once your receive your invite to the Juno Bootcamp Workspace, follow these
 3. Once you've added the workspace via this webpage, you should be able to see the workspace in your Slack App. If you still do not see it:
    - Once signed into the Slack App, click the "+" sign below your workspaces and select "Sign in to another workspace"
    - Follow the prompts and you should see the workspace appear in the app! 
+</br>
+NOTE: you will have to create a new profile on this workspace, even though your accounts are connected. Don't be alarmed if your profile picture and names have to be added again.
 
 ## How to create a Slack profile 
 Use this guide to [Edit your Profile](https://slack.com/intl/en-ca/help/articles/204092246-Edit-your-profile) or follow along with these simple step by step instructions:
