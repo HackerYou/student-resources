@@ -1,6 +1,6 @@
 # Computer Requirements
 
-## For Web Development, JavaScript, React, WordPress/Shopify, Full Stack, and Data Analytics
+## For Web Development, JavaScript, React and Data Analytics
 We recommend you use either:
 
 - An Apple laptop newer than 6 years old running one of the 3 most recent major releases of MacOS (currently: 10.14 (Mojave) or newer)
