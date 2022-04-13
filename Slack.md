@@ -18,8 +18,9 @@ For Bootcamp courses, you will receive a separate invite for the Juno Bootcamp W
 </br> </br>
 NOTE: Once your receive your invite to the Juno Bootcamp Workspace, follow these steps if you're having trouble accessing the workspace:
 1. Click on the link in the Email Invite you receive from Slack (might be in your junk email)
-2. A Slack webpage will open and it will prompt you to create a new account. If you click through this menu, you should see an option to sign into your account already *NOTE* you may have to create a new account but make sure you use the same email address as what you used with your Juno College Worskpace account (where part-time courses were) so you can connect your accounts
-3. Once you've added the workspace via this webpage, you should be able to see the workspace in your Slack App. If you still do not see it:
+2. A Slack webpage will open and it will prompt you to create a new account. If you click through this menu, you should see an option to sign into your account already 
+   - *NOTE* you may have to create a new account but make sure you use the same email address as what you used with your Juno College Worskpace account (where part-time courses were) so you can connect your accounts
+4. Once you've added the workspace via this webpage, you should be able to see the workspace in your Slack App. If you still do not see it:
    - Once signed into the Slack App, click the "+" sign below your workspaces and select "Sign in to another workspace"
    - Follow the prompts and you should see the workspace appear in the app! 
 </br>
