@@ -1,4 +1,4 @@
-# Setup Guide for Live Online Web Development Bootcamp
+# Setup Guide for Live Online Part-Time Web Development Bootcamp
 
 ## Before Class Starts
 
