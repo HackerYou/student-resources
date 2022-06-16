@@ -83,8 +83,8 @@ To learn all about GitHub setup, please see the [GitHub](./GitHub.md) guide in t
 - 1:1 Mentorship can always be arranged if you want support with revisiting concepts! Please Laura Easson (the Student Experience Specialist) via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) to schedule time with an alumni mentor.
 
 ### Tests & Exam
-- Tests and the exam will be held at 10am ET (unless otherwise noted)
-- The test link will be shared in the Zoom classroom at 10am ET sharp and removed once the test begins
+- Tests and the exam will be held at 6pm ET (unless otherwise noted)
+- The test link will be shared in the Zoom classroom at 6pm ET sharp and removed once the test begins
 - Missing the test link means you’ll receive a 0 on the test or exam
 - You will have 15 minutes to complete tests (10 multiple choice questions) and 40 minutes to complete the exam (25 multiple choice questions)
 
