@@ -38,6 +38,12 @@ This repository has all the information you need in order to successfully naviga
        - [Alumni Office Hours](./alumni-office-hours.md)
        - [Important Dates](https://github.com/HackerYou/bootcamp-notes/blob/main/stuff-you-need-to-know/important-dates.md)
        - [Certificates and Transcripts](./certificates-transcripts.md)
+    - Course Information for Part-Time Web Development Bootcamp
+       - [Step-Up Guide](./Setup-Guide-WD-Bootcamp.md)
+       - [Bootcamp Notes](https://github.com/HackerYou/bootcamp-notes)
+       - [Stuff You Need to Know](https://github.com/HackerYou/bootcamp-notes/tree/main/stuff-you-need-to-know)
+       - [Alumni Office Hours](./alumni-office-hours.md)
+       - [Certificates and Transcripts](./certificates-transcripts.md)
    - Course Information for Data Analytics Bootcamp
        - [Step-Up Guide](./Setup-Guide-DA-Bootcamp.md)
        - [Bootcamp Notes](https://github.com/HackerYou/data-bootcamp-notes)
