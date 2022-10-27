@@ -20,6 +20,7 @@ This guide covers:
 - Create a free account using the same email address you used to sign up for your Juno course
 - Test your microphone and webcam with Zoom
 - Zoom now allows you to add your pronouns. Refer to [this guide](https://support.zoom.us/hc/en-us/articles/4402698027533) to set this up 
+- FOR MAC USERS: please make sure you are granting macOS permissions for allowing Screen Recording. To ensure this is happening, please follow the information provided in [this link](https://support.zoom.us/hc/en-us/articles/360016688031)
 - View the [Zoom Overview](https://support.zoom.us/hc/en-us/articles/201362193-Joining-a-Meeting) to get familiar with Zoom on your machine
 
 ### Suggested Environment Setup for Lessons
