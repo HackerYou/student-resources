@@ -79,7 +79,7 @@ To learn all about GitHub setup, please see the [GitHub](./GitHub.md) guide in t
 - Please ensure you’re paying attention to Slack when you add questions to HelpCue. The instructor will wait for 5 minutes for a response before moving on to the next question in the queue.
 
 ### Asking Questions After Class Hours
-- The #helpme Slack channel in the Juno College Workspace is available to you any time!
+- The #05-technical-questions Slack channel in the Juno College Workspace is available to you any time!
 - Evening and weekend Alumni Office Hours are scheduled throughout your Bootcamp. The timing of these sessions will be added to your Bootcamp Student calendar and are noted in your Important Dates document.
 - 1:1 Mentorship can always be arranged if you want support with revisiting concepts! Please Laura Easson (the Student Experience Specialist) via [Slack](https://junocollege.slack.com/team/U01JN7E8ELE) to schedule time with an alumni mentor.
 
